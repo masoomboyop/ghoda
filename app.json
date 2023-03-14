@@ -87,6 +87,41 @@
         "description": "",
         "value": "",
         "required": false
+},
+      "SPOTIFY_CLIENT_SECRET": {
+        "description": "Get From Spotify Developer",
+        "value": "Fill up For Playing Spotify",
+        "required": false
+},
+      "SUPPORT_CHANNEL": {
+        "description": "Full Link Of Channel Dont use @", 
+        "value": "https://t.me/secret_chatting_world",
+        "required": False
+},
+      "SUPPORT_GROUP": {
+        "description": "",
+        "value": "https://t.me/secret_chatting_world",
+        "required": false
+},
+      "GLOBAL_IMG_URL": {
+        "description": "",
+        "value": "", 
+        "required": false
+},
+      "STATS_IMG_URL": {
+        "description": "",
+        "value": "", 
+        "required": false
+},
+      "PING_IMG_URL": {
+        "description": "",
+        "value": "", 
+        "required": false
+},
+      "START_IMG_URL": {
+        "description": "",
+        "value": "", 
+        "required": false
       }
     },
     "buildpacks": [
