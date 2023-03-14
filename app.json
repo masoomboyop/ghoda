@@ -81,12 +81,12 @@
       "DURATION_LIMIT": {
         "description": "song duration for voice chat play",
         "value": "",
-        "required": true
+        "required": false
 },
       "SPOTIFY_CLIENT_ID": {
         "description": "",
         "value": "",
-        "required": true
+        "required": false
       }
     },
     "buildpacks": [
